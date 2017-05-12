@@ -2,6 +2,8 @@
 
 	/*
 			DB-Toolkit v 0.1
+			Written by kod0kk
+			fb.me/reyvand.cz
 	*/
 
 	error_reporting(0);
